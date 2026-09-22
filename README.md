@@ -10,7 +10,7 @@
 
 ### Professional Summary
 * Final-year Software Engineering (Honours) student at **RMIT University Vietnam** with proven experience in building modern, high-performance web systems and interactive UI architectures.
-* Strong technical background in modern frontend engineering, responsive component design, and real-time 3D web graphics utilizing **React, Next.js, TypeScript, Three.js, and Tailwind CSS**.
+* Strong technical background in modern frontend engineering, responsive component design, and real-time 3D web graphics utilizing **React, Next.js, JavaScript, TypeScript, Three.js, and Tailwind CSS**.
 * Experienced in building deterministic backend architectures and distributed web services with **Node.js, Express, and Spring Boot**.
 * Passionate about bridging upstream spatial vision pipelines with downstream industrial robotics execution through accessible, operator-centric web platforms.
 
