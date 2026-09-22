@@ -1,4 +1,4 @@
-# Hi, I'm Minh Quan 👋
+# Hi, I'm Minh Quan
 **Full-stack Software Engineer | Industrial Web & UI Specialist**  
 *Bachelor of Software Engineering (Honours) @ RMIT University Vietnam*
 
@@ -8,7 +8,7 @@
 
 ---
 
-### 👨‍💻 Professional Summary
+### Professional Summary
 * Final-year Software Engineering (Honours) student at **RMIT University Vietnam** with proven experience in building modern, high-performance web systems and interactive UI architectures.
 * Strong technical background in modern frontend engineering, responsive component design, and real-time 3D web graphics utilizing **React, Next.js, TypeScript, Three.js, and Tailwind CSS**.
 * Experienced in building deterministic backend architectures and distributed web services with **Node.js, Express, and Spring Boot**.
@@ -16,7 +16,7 @@
 
 ---
 
-### 🚀 Highlighted Engineering Projects
+### Highlighted Engineering Projects
 
 #### 🔷 [Vertex Dynamics – Industrial 3D Vision & Robot Trajectory Platform (Capstone)](https://github.com/MinhQuan2511/RMIT-Software-Capstone)
 > *Industry Capstone Project in partnership with **ABB Robotics Vietnam***
@@ -34,7 +34,7 @@ An end-to-end digital twin web application transforming raw 3D optical scan desc
 
 ---
 
-#### 🏠 [House Rental Web Application (Full-Stack)](https://github.com/MinhQuan2511)
+#### [House Rental Web Application (Full-Stack)](https://github.com/MinhQuan2511)
 > *Full-Stack Accommodation Management & Booking Platform*
 
 * Implemented an accessible, mobile-first frontend utilizing **Radix UI unstyled primitives** and **Tailwind CSS** for layout transitions and complete keyboard navigation.
@@ -45,7 +45,7 @@ An end-to-end digital twin web application transforming raw 3D optical scan desc
 
 ---
 
-#### 🌐 [Social Network Web Application (Full-Stack MERN)](https://github.com/MinhQuan2511)
+#### [Social Network Web Application (Full-Stack MERN)](https://github.com/MinhQuan2511)
 > *Community Platform with Predictable State Architecture*
 
 * Architected a modular Single Page Application (SPA) utilizing **Redux Toolkit** for centralized state management across dynamic feed pagination, notifications, and active sessions.
@@ -55,7 +55,7 @@ An end-to-end digital twin web application transforming raw 3D optical scan desc
 
 ---
 
-#### 🤖 [EEET2490-Embedded3: Autonomous Traffic-Aware Robot](https://github.com/suneruuu/EEET2490-Embedded3)
+#### [EEET2490-Embedded3: Autonomous Traffic-Aware Robot](https://github.com/suneruuu/EEET2490-Embedded3)
 > *Embedded Control Loop & Multi-Sensor Perception*
 
 * Implemented an autonomous line-following algorithm driven by proportional feedback control (Kp) on CyberPi / mBot2.
@@ -64,14 +64,14 @@ An end-to-end digital twin web application transforming raw 3D optical scan desc
 
 ---
 
-#### 📦 [3D Spatial Indexing & Partitioning via QuadTree](https://github.com/MinhQuan2511)
+#### [3D Spatial Indexing & Partitioning via QuadTree](https://github.com/MinhQuan2511)
 * Implemented QuadTree spatial data structures in C++ for efficient 2D/3D coordinate bounding-box indexing and rapid spatial range queries.
 * Designed with minimal memory footprint and high spatial cache locality.
 * **Tech Stack:** `C++` `Data Structures & Algorithms` `Spatial Partitioning`
 
 ---
 
-### 🛠️ Technical Stack & Tooling
+### Technical Stack & Tooling
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
@@ -90,7 +90,7 @@ An end-to-end digital twin web application transforming raw 3D optical scan desc
 
 ---
 
-### 📊 GitHub Metrics
+### GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinhQuan2511&theme=tokyonight&hide_border=true" alt="Minh Quan's Streak" width="49%" />
@@ -99,7 +99,7 @@ An end-to-end digital twin web application transforming raw 3D optical scan desc
 
 ---
 
-### 📬 Connect with Me
+### Connect with Me
 * **GitHub Profile:** [github.com/MinhQuan2511](https://github.com/MinhQuan2511)
 * **Direct Email:** [camri2511@gmail.com](mailto:camri2511@gmail.com)
 * **Phone:** (+84) 934 290 363
