@@ -1,6 +1,6 @@
 # Hi, I'm Minh Quan 👋
 **Full-stack Software Engineer | Industrial Web & UI Specialist**  
-*Bachelor of Software Engineering (Honours) @ RMIT University Vietnam (Class of 2026)*
+*Bachelor of Software Engineering (Honours) @ RMIT University Vietnam*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-MinhQuan2511-181717?style=flat&logo=github)](https://github.com/MinhQuan2511)
