@@ -1,5 +1,5 @@
 # Hi, I'm Minh Quan
-**Software Engineer | Industrial Web & UI Specialist**  
+**Software Engineer**  
 *Bachelor of Software Engineering (Honours) @ RMIT University Vietnam*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com)
