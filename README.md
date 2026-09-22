@@ -93,8 +93,8 @@ An end-to-end digital twin web application transforming raw 3D optical scan desc
 ### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=MinhQuan2511&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=MinhQuan2511&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)" alt="Minh Quan's GitHub Stats" width="48%" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=MinhQuan2511&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhQuan2511&layout=compact&theme=tokyonight&hide_border=true)" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinhQuan2511&theme=tokyonight&hide_border=true" alt="Minh Quan's Streak" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MinhQuan2511&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
 ---
